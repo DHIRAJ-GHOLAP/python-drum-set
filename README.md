@@ -51,7 +51,8 @@ Each keyboard key is mapped to a specific drum sound. Press the assigned keys to
 ## Usage
 1. Run the Python script:
    ```bash
-   python drum_set.py
+   cd codeFile
+   python main.py
    ```
 2. Press the mapped keys to play sounds. Have fun drumming!
 
