@@ -82,8 +82,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 **Dhiraj (Flash)**  
-GitHub: [your-username](https://github.com/your-username)
+GitHub: [your-username](https://github.com/DHIRAJ-GHOLAP)
 
----
-
-Let me know if you'd like me to customize this further! 😊
