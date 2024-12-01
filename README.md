@@ -35,7 +35,7 @@ Each keyboard key is mapped to a specific drum sound. Press the assigned keys to
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-drum-set.git
+   git clone https://github.com/DHIRAJ-GHOLAP/python-drum-set.git
    ```
 2. Navigate to the project directory:
    ```bash
